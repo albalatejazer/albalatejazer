@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![MADE WITH](https://img.shields.io/badge/MADE%20WITH-LOVE-red?style=for-the-badge)
 -->
 
 <div align="center">
@@ -41,5 +42,9 @@ I'm a Software Developer based in the Philippines with a strong interest in buil
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Image description" style="border-radius: 8px;" />
 </div>
 
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/divider?bgType=solid&thickness=1&alignment=center&bgSolidColor=4F4F4F&bgStartColor=CCCCCC&bgEndColor=999999&bgGradientDirection=horizontal" alt="Divider" />
+</div>
 
-![MADE WITH](https://img.shields.io/badge/MADE%20WITH-LOVE-red?style=for-the-badge)
+
+
