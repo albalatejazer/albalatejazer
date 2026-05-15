@@ -28,6 +28,10 @@ Here are some ideas to get you started:
 
 I'm a Software Developer based in the Philippines with a strong interest in building reliable and efficient software systems. Passionate about clean code, problem-solving, and continuously improving both technical and user-focused solutions across different types of projects.
 
+🌱 I’m currently learning CI/CD.
+🌱 I’m currently learning Ai coding.
+🌱 I’m currently learning Angular.
+
 <h2 align="center">🧑‍💻Tech Stack</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Image description" style="border-radius: 8px;" />
