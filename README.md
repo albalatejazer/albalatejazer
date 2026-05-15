@@ -28,12 +28,17 @@ Here are some ideas to get you started:
 
 I'm a Software Developer based in the Philippines with a strong interest in building reliable and efficient software systems. Passionate about clean code, problem-solving, and continuously improving both technical and user-focused solutions across different types of projects.
 
-<div>
-
+<div> 
 🌱 I’m currently learning CI/CD.
+</div>
+<div>
 🌱 I’m currently learning Ai coding.
+</div>
+<div>
 🌱 I’m currently learning Angular.
-</div>  
+</div>
+
+
 
 <h2 align="center">🧑‍💻Tech Stack</h2>
 <div align="center">
